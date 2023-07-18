@@ -1,0 +1,31 @@
+<!DOCTYPEhtml >
+< html  lang =" pt-BR " >
+  < cabeça >
+
+    < meta  charset =" UTF-8 " >
+    < title > Para minha Namorada </ title >
+    < link  rel =" folha de estilo " href =" estilo.css " >
+
+  </ cabeça >
+  < corpo >
+    < div  classe =" recipiente " >
+      < h1 > Para minha mamorada </ h1 >
+      < div  class =" imagens " >
+        < img  src ="IMG-20230605-WAO113.jpg" alt =" Imagem 1 " >
+         < p >você é a pessoa mais encrível que eu já conheci.</p> _ _
+        < img  src ="IMG-20230715-WAOO19.jpg" alt =" Imagem 2 " >
+        < p >eu amo tudo em você</p> _ _
+        < img  src ="IMG-20230325-WAO479.jpg" alt =" Imagem 3 " >
+        < p >obrigada por tudo meu amor</p> _ _
+        < img  src ="IMG-20230710-WAO031.jpg" alt =" Imagem 4 " >
+        < p >você é o amor da mainha vida!</p> _ _
+        < img  src ="IMG-20220420-WAOO41.jpg" alt =" Imagem 5 " >
+         < p >você é muito importante pra mim</p> _ _
+        < img  src ="IMG-2022O716-WAOO36.jpg" alt =" Imagem 6 " >
+        < p >eu quero passar o resto da minha vida ao seu lado, eu te amo!</p> _ _
+      </div> _ _
+      < div  class =" textos " > 
+      </div> _ _
+    </div> _ _
+  </ corpo >
+</html> _ _
